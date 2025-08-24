@@ -1,0 +1,301 @@
+OrderID,Date,Customer Name,Email,Phone,Product,Quantity,Price in $,Total Revenue
+1001,18-01-2023,Sarah,sarah@outlook.com,Unknown,Phone,3,500,1500
+1002,18-01-2023,Jane Doe,jane.doe@yahoo.com,987654321,Phone,1,800,800
+1003,06-01-2023,Anna,anna@yahoo.com,+1 234 567 8901,Camera,2,200,400
+1004,27-01-2023,Mike Smith,mike.smith@yahoo.com,987654321,Laptop,1,500,500
+1005,18-01-2023,Mike Smith,mike.smith@gmail.com,+1 234 567 8901,Headphones,3,300,900
+1006,10-01-2023,John Doe,johndoe@hotmail,+91-98765 43210,Phone,1,200,200
+1007,04-01-2023,Sarah,sarah@hotmail,Unknown,Laptop,1,500,500
+1008,06-01-2023,Robert Jr,robert.jr@hotmail,+91-98765 43210,Tablet,3,50,150
+1009,31-01-2023,Chris Paul,chris.paul@outlook.com,9876543210,Headphones,3,200,600
+1010,17-01-2023,Chris Paul,chris.paul@hotmail,+1 234 567 8901,Camera,3,50,150
+1011,21-01-2023,Mike Smith,mike.smith@outlook.com,987654321,Tablet,3,500,1500
+1012,18-01-2023,Katy,katy@hotmail,+91-98765 43210,Camera,3,800,2400
+1013,23-01-2023,Chris Paul,chris.paul@gmail.com,9876543210,Tablet,3,300,900
+1014,06-01-2023,Jane Doe,jane.doe@gmail.com,+91-98765 43210,Phone,3,200,600
+1015,22-01-2023,Tom Lee,tom.lee@hotmail,987654321,Phone,2,200,400
+1016,30-01-2023,Mike Smith,mike.smith@yahoo.com,+1 234 567 8901,Laptop,2,300,600
+1017,03-01-2023,Sarah,sarah@yahoo.com,Unknown,Tablet,2,50,100
+1018,31-01-2023,Sarah,sarah@hotmail,+91-98765 43210,Camera,1,200,200
+1019,23-01-2023,John Doe,john.doe@gmail.com,987654321,Headphones,3,300,900
+1020,17-01-2023,Tom Lee,tom.lee@hotmail,+91-98765 43210,Laptop,3,300,900
+1021,12-01-2023,Mike Smith,mike.smith@outlook.com,987654321,Headphones,3,800,2400
+1022,04-01-2023,Robert Jr,robertjr@yahoocom,987654321,Camera,3,300,900
+1023,24-01-2023,Tom Lee,tom.lee@hotmail,987654321,Tablet,3,200,600
+1024,13-01-2023,Tom Lee,tomlee@gmailcom,+91-98765 43210,Camera,2,800,1600
+1025,16-01-2023,Katy,katy@yahoocom,987654321,Laptop,3,300,900
+1026,10-01-2023,Chris Paul,chris.paul@gmail.com,+91-98765 43210,Camera,3,800,2400
+1027,19-01-2023,Chris Paul,chris.paul@outlook.com,987654321,Headphones,2,800,1600
+1028,06-01-2023,john.doe,john.doe@outlook.com,9876543210,Laptop,1,500,500
+1029,13-01-2023,Sarah,sarah@outlook.com,Unknown,Tablet,3,200,600
+1030,10-01-2023,John Doe,john.doe@hotmail,+1 234 567 8901,Phone,3,200,600
+1031,06-01-2023,Jane Doe,jane.doe@gmail.com,+91-98765 43210,Laptop,2,500,1000
+1032,23-01-2023,Mike Smith,mike.smith@gmail.com,+91-98765 43210,Tablet,1,50,50
+1033,15-01-2023,Jane Doe,jane.doe@outlook.com,Unknown,Phone,1,200,200
+1034,01-01-2023,John Doe,john.doe@gmail.com,987654321,Headphones,3,300,900
+1035,15-01-2023,John Doe,john.doe@hotmail,987654321,Camera,1,500,500
+1036,21-01-2023,Katy,katy@hotmail,987654321,Headphones,2,50,100
+1037,12-01-2023,John Doe,john.doe@yahoo.com,+1 234 567 8901,Laptop,3,300,900
+1038,27-01-2023,Anna,anna@outlook.com,+1 234 567 8901,Phone,3,200,600
+1039,16-01-2023,Jane Doe,jane.doe@hotmail,+91-98765 43210,Laptop,2,800,1600
+1040,20-01-2023,Tom Lee,tom.lee@outlook.com,+1 234 567 8901,Phone,2,200,400
+1041,24-01-2023,Jane Doe,jane.doe@hotmail,987654321,Laptop,2,200,400
+1042,25-01-2023,Katy,katy@outlook.com,9876543210,Headphones,2,300,600
+1043,26-01-2023,Anna,anna@yahoo.com,9876543210,Camera,3,500,1500
+1044,26-01-2023,Sarah,sarah@yahoo.com,Unknown,Camera,2,200,400
+1045,03-01-2023,Robert Jr,robert.jr@gmail.com,9876543210,Tablet,2,50,100
+1046,03-01-2023,Robert Jr,robertjr@hotmail,987654321,Laptop,3,50,150
+1047,19-01-2023,Jane Doe,jane.doe@yahoo.com,+91-98765 43210,Phone,3,500,1500
+1048,28-01-2023,Tom Lee,tomlee@yahoocom,987654321,Camera,2,800,1600
+1049,03-01-2023,Mike Smith,mikesmith@outlookcom,9876543210,Tablet,3,500,1500
+1050,05-01-2023,Chris Paul,chrispaul@yahoocom,+91-98765 43210,Camera,2,50,100
+1051,20-01-2023,Anna,anna@hotmail,Unknown,Tablet,1,500,500
+1052,04-01-2023,John Doe,john.doe@outlook.com,987654321,Camera,1,500,500
+1053,31-01-2023,John Doe,johndoe@gmailcom,+1 234 567 8901,Laptop,3,300,900
+1054,22-01-2023,Anna,anna@gmail.com,987654321,Tablet,2,200,400
+1055,09-01-2023,Tom Lee,tom.lee@hotmail,+91-98765 43210,Headphones,2,50,100
+1056,26-01-2023,Chris Paul,chris.paul@outlook.com,+91-98765 43210,Tablet,3,50,150
+1057,20-01-2023,Robert Jr,robert.jr@gmail.com,9876543210,Tablet,3,200,600
+1058,05-01-2023,Mike Smith,mike.smith@hotmail,9876543210,Laptop,3,300,900
+1059,29-01-2023,Katy,katy@hotmail,9876543210,Headphones,3,500,1500
+1060,17-01-2023,Sarah,sarah@yahoo.com,9876543210,Camera,3,800,2400
+1061,05-01-2023,Katy,katy@outlook.com,Unknown,Laptop,1,800,800
+1062,09-01-2023,Chris Paul,chris.paul@yahoo.com,987654321,Tablet,1,300,300
+1063,15-01-2023,Chris Paul,chris.paul@outlook.com,+1 234 567 8901,Tablet,2,200,400
+1064,16-01-2023,Anna,anna@gmail.com,Unknown,Headphones,2,800,1600
+1065,06-01-2023,Mike Smith,mikesmith@yahoocom,+1 234 567 8901,Tablet,3,500,1500
+1066,16-01-2023,Sarah,sarah@gmail.com,Unknown,Headphones,1,300,300
+1067,28-01-2023,Chris Paul,chrispaul@gmailcom,+91-98765 43210,Headphones,3,50,150
+1068,19-01-2023,Chris Paul,chris.paul@outlook.com,Unknown,Laptop,1,500,500
+1069,11-01-2023,Mike Smith,mike.smith@gmail.com,+1 234 567 8901,Headphones,2,800,1600
+1070,01-01-2023,Robert Jr,robert.jr@gmail.com,9876543210,Phone,3,800,2400
+1071,08-01-2023,Robert Jr,robert.jr@yahoo.com,9876543210,Headphones,2,300,600
+1072,27-01-2023,Katy,katy@outlook.com,+91-98765 43210,Laptop,1,200,200
+1073,27-01-2023,Sarah,sarah@gmail.com,Unknown,Tablet,3,50,150
+1074,07-01-2023,Robert Jr,robert.jr@hotmail,9876543210,Camera,2,800,1600
+1075,11-01-2023,Katy,katy@gmail.com,Unknown,Tablet,2,200,400
+1076,04-01-2023,John Doe,john.doe@hotmail,9876543210,Headphones,3,50,150
+1077,14-01-2023,Mike Smith,mike.smith@yahoo.com,Unknown,Camera,2,300,600
+1078,21-01-2023,John Doe,john.doe@yahoo.com,Unknown,Tablet,2,50,100
+1079,28-01-2023,John Doe,johndoe@gmailcom,987654321,Laptop,2,500,1000
+1080,04-01-2023,Sarah,sarah@yahoo.com,9876543210,Camera,2,50,100
+1081,25-01-2023,Anna,anna@hotmail,Unknown,Laptop,1,300,300
+1082,30-01-2023,Katy,katy@outlook.com,9876543210,Tablet,2,300,600
+1083,19-01-2023,Chris Paul,chris.paul@gmail.com,+91-98765 43210,Headphones,3,50,150
+1084,04-01-2023,Sarah,sarah@outlook.com,Unknown,Camera,2,300,600
+1085,09-01-2023,Robert Jr,robertjr@yahoocom,+1 234 567 8901,Tablet,2,50,100
+1086,11-01-2023,Mike Smith,mike.smith@outlook.com,Unknown,Camera,2,500,1000
+1087,01-01-2023,Anna,anna@hotmail,9876543210,Camera,1,500,500
+1088,19-01-2023,Tom Lee,tom.lee@gmail.com,+91-98765 43210,Camera,1,200,200
+1089,01-01-2023,Robert Jr,robert.jr@hotmail,+1 234 567 8901,Headphones,3,500,1500
+1090,18-01-2023,Jane Doe,jane.doe@outlook.com,9876543210,Headphones,3,500,1500
+1091,31-01-2023,Chris Paul,chris.paul@gmail.com,9876543210,Laptop,2,500,1000
+1092,11-01-2023,Mike Smith,mike.smith@yahoo.com,+1 234 567 8901,Headphones,2,50,100
+1093,11-01-2023,Tom Lee,tomlee@outlookcom,9876543210,Laptop,1,800,800
+1094,01-01-2023,Sarah,sarah@hotmail,987654321,Headphones,2,800,1600
+1095,30-01-2023,Jane Doe,jane.doe@hotmail,9876543210,Tablet,3,200,600
+1096,25-01-2023,Anna,anna@outlook.com,+1 234 567 8901,Headphones,1,200,200
+1097,09-01-2023,Sarah,sarah@gmail.com,9876543210,Camera,2,200,400
+1098,03-01-2023,John Doe,john.doe@gmail.com,+1 234 567 8901,Laptop,2,300,600
+1099,27-01-2023,Chris Paul,chris.paul@yahoo.com,987654321,Laptop,2,800,1600
+1100,31-01-2023,Chris Paul,chris.paul@outlook.com,9876543210,Phone,1,800,800
+1101,14-01-2023,Katy,katy@gmail.com,+1 234 567 8901,Camera,3,50,150
+1102,03-01-2023,John Doe,john.doe@gmail.com,9876543210,Laptop,3,200,600
+1103,27-01-2023,Sarah,sarah@outlookcom,987654321,Headphones,2,50,100
+1104,02-01-2023,Anna,anna@yahoo.com,+91-98765 43210,Tablet,3,500,1500
+1105,04-01-2023,Jane Doe,janedoe@yahoocom,Unknown,Camera,3,800,2400
+1106,26-01-2023,Jane Doe,jane.doe@hotmail,987654321,Tablet,2,300,600
+1107,27-01-2023,Mike Smith,mike.smith@gmail.com,+1 234 567 8901,Tablet,3,300,900
+1108,02-01-2023,Katy,katy@outlook.com,+91-98765 43210,Camera,1,800,800
+1109,15-01-2023,Anna,anna@gmail.com,987654321,Phone,2,800,1600
+1110,15-01-2023,Katy,katy@outlookcom,9876543210,Tablet,1,500,500
+1111,16-01-2023,Katy,katy@gmail.com,Unknown,Headphones,2,50,100
+1112,21-01-2023,John Doe,johndoe@hotmail,+91-98765 43210,Laptop,3,50,150
+1113,21-01-2023,Mike Smith,mikesmith@yahoocom,9876543210,Camera,3,50,150
+1114,30-01-2023,Robert Jr,robert.jr@hotmail,9876543210,Headphones,2,50,100
+1115,11-01-2023,John Doe,john.doe@hotmail,+91-98765 43210,Laptop,2,200,400
+1116,10-01-2023,Katy,katy@outlook.com,Unknown,Headphones,3,300,900
+1117,30-01-2023,John Doe,johndoe@outlookcom,+91-98765 43210,Phone,3,800,2400
+1118,14-01-2023,Katy,katy@outlook.com,+91-98765 43210,Phone,3,300,900
+1119,04-01-2023,Katy,katy@yahoo.com,987654321,Headphones,1,200,200
+1120,12-01-2023,Robert Jr,robert.jr@outlook.com,987654321,Laptop,1,500,500
+1121,05-01-2023,Katy,katy@hotmail,Unknown,Phone,3,800,2400
+1122,14-01-2023,Jane Doe,janedoe@outlookcom,9876543210,Camera,2,800,1600
+1123,08-01-2023,John Doe,john.doe@hotmail,Unknown,Camera,3,50,150
+1124,16-01-2023,Chris Paul,chris.paul@outlook.com,9876543210,Phone,1,800,800
+1125,26-01-2023,Katy,katy@outlook.com,Unknown,Camera,2,300,600
+1126,12-01-2023,Robert Jr,robert.jr@gmail.com,+1 234 567 8901,Camera,3,800,2400
+1127,13-01-2023,Chris Paul,chris.paul@hotmail,987654321,Camera,2,300,600
+1128,04-01-2023,Robert Jr,robert.jr@gmail.com,+1 234 567 8901,Headphones,3,300,900
+1129,19-01-2023,John Doe,john.doe@outlook.com,9876543210,Camera,2,800,1600
+1130,19-01-2023,John Doe,john.doe@yahoo.com,9876543210,Camera,1,50,50
+1131,10-01-2023,Jane Doe,jane.doe@outlook.com,+1 234 567 8901,Laptop,3,800,2400
+1132,18-01-2023,Anna,anna@hotmail,987654321,Laptop,3,300,900
+1133,14-01-2023,Mike Smith,mike.smith@yahoo.com,987654321,Phone,3,300,900
+1134,02-01-2023,Chris Paul,chris.paul@hotmail,9876543210,Tablet,3,200,600
+1135,07-01-2023,Katy,katy@hotmail,+91-98765 43210,Tablet,1,200,200
+1136,03-01-2023,Jane Doe,jane.doe@yahoo.com,+1 234 567 8901,Laptop,2,50,100
+1137,10-01-2023,Sarah,sarah@outlook.com,Unknown,Laptop,3,50,150
+1138,31-01-2023,Jane Doe,jane.doe@outlook.com,987654321,Phone,2,500,1000
+1139,09-01-2023,Jane Doe,jane.doe@yahoo.com,987654321,Headphones,2,300,600
+1140,25-01-2023,anna,anna@yahoo.com,9876543210,Headphones,2,500,1000
+1141,08-01-2023,Tom Lee,tom.lee@gmail.com,987654321,Headphones,2,50,100
+1142,24-01-2023,Mike Smith,mike.smith@outlook.com,987654321,Headphones,3,200,600
+1143,22-01-2023,Robert Jr,robert.jr@yahoo.com,+91-98765 43210,Phone,2,800,1600
+1144,08-01-2023,Jane Doe,jane.doe@gmail.com,+91-98765 43210,Laptop,3,800,2400
+1145,11-01-2023,Katy,katy@outlook.com,9876543210,Laptop,1,500,500
+1146,12-01-2023,Robert Jr,robert.jr@outlook.com,+91-98765 43210,Headphones,2,200,400
+1147,18-01-2023,John Doe,john.doe@gmail.com,+1 234 567 8901,Camera,3,800,2400
+1148,01-01-2023,John Doe,johndoe@gmailcom,Unknown,Laptop,3,800,2400
+1149,30-01-2023,Anna,anna@hotmail,Unknown,Headphones,3,800,2400
+1150,07-01-2023,Sarah,sarah@hotmail,987654321,Laptop,2,800,1600
+1151,13-01-2023,Jane Doe,janedoe@gmailcom,Unknown,Headphones,3,500,1500
+1152,11-01-2023,Tom Lee,tomlee@hotmail,9876543210,Headphones,3,500,1500
+1153,29-01-2023,Chris Paul,chrispaul@gmailcom,+91-98765 43210,Phone,3,50,150
+1154,02-01-2023,Anna,anna@gmailcom,9876543210,Headphones,2,300,600
+1155,29-01-2023,Sarah,sarah@hotmail,987654321,Phone,3,500,1500
+1156,15-01-2023,Robert Jr,robert.jr@outlook.com,+1 234 567 8901,Headphones,1,200,200
+1157,19-01-2023,Chris Paul,chris.paul@outlook.com,9876543210,Phone,2,500,1000
+1158,21-01-2023,Jane Doe,jane.doe@gmail.com,+91-98765 43210,Laptop,1,200,200
+1159,12-01-2023,Mike Smith,mike.smith@gmail.com,Unknown,Laptop,2,800,1600
+1160,30-01-2023,Tom Lee,tom.lee@outlook.com,987654321,Phone,3,800,2400
+1161,28-01-2023,Sarah,sarah@outlook.com,+91-98765 43210,Tablet,3,50,150
+1162,10-01-2023,Anna,anna@hotmail,Unknown,Camera,3,200,600
+1163,24-01-2023,Mike Smith,mike.smith@outlook.com,+1 234 567 8901,Laptop,2,200,400
+1164,19-01-2023,Chris Paul,chris.paul@hotmail,+1 234 567 8901,Laptop,2,50,100
+1165,17-01-2023,John Doe,john.doe@gmail.com,Unknown,Tablet,2,200,400
+1166,14-01-2023,Katy,katy@outlook.com,+1 234 567 8901,Headphones,3,50,150
+1167,01-01-2023,Chris Paul,chris.paul@outlook.com,Unknown,Phone,3,500,1500
+1168,02-01-2023,Sarah,sarah@outlook.com,987654321,Tablet,2,800,1600
+1169,04-01-2023,Chris Paul,chris.paul@outlook.com,+91-98765 43210,Laptop,3,300,900
+1170,05-01-2023,John Doe,john.doe@yahoo.com,+91-98765 43210,Tablet,3,50,150
+1171,29-01-2023,Chris Paul,chris.paul@outlook.com,987654321,Camera,2,800,1600
+1172,07-01-2023,Jane Doe,jane.doe@outlook.com,Unknown,Camera,3,50,150
+1173,08-01-2023,Katy,katy@hotmail,9876543210,Phone,3,300,900
+1174,20-01-2023,Chris Paul,chris.paul@yahoo.com,+1 234 567 8901,Camera,1,500,500
+1175,24-01-2023,Sarah,sarah@hotmail,987654321,Laptop,2,800,1600
+1176,21-01-2023,Robert Jr,robert.jr@gmail.com,9876543210,Laptop,3,50,150
+1177,07-01-2023,Mike Smith,mike.smith@yahoo.com,Unknown,Headphones,3,50,150
+1178,18-01-2023,Robert Jr,robert.jr@hotmail,+91-98765 43210,Phone,2,300,600
+1179,17-01-2023,Chris Paul,chris.paul@outlook.com,9876543210,Laptop,3,50,150
+1180,29-01-2023,Jane Doe,jane.doe@yahoo.com,+91-98765 43210,Laptop,2,500,1000
+1181,09-01-2023,Jane Doe,jane.doe@outlook.com,Unknown,Laptop,3,50,150
+1182,18-01-2023,Sarah,sarah@hotmail,9876543210,Headphones,3,50,150
+1183,05-01-2023,Jane Doe,jane.doe@hotmail,+91-98765 43210,Phone,3,800,2400
+1184,03-01-2023,Chris Paul,chris.paul@outlook.com,9876543210,Phone,3,800,2400
+1185,28-01-2023,Robert Jr,robert.jr@outlook.com,Unknown,Laptop,3,50,150
+1186,10-01-2023,Chris Paul,chris.paul@hotmail,9876543210,Headphones,3,300,900
+1187,04-01-2023,Chris Paul,chris.paul@hotmail,Unknown,Tablet,2,200,400
+1188,28-01-2023,Tom Lee,tom.lee@gmail.com,Unknown,Laptop,2,50,100
+1189,21-01-2023,Jane Doe,janedoe@yahoocom,+91-98765 43210,Phone,2,300,600
+1190,24-01-2023,John Doe,john.doe@gmail.com,+91-98765 43210,Camera,3,50,150
+1191,21-01-2023,Mike Smith,mike.smith@yahoo.com,9876543210,Laptop,3,800,2400
+1192,02-01-2023,Katy,katy@outlookcom,987654321,Tablet,1,300,300
+1193,31-01-2023,Katy,katy@outlook.com,9876543210,Camera,1,200,200
+1194,13-01-2023,Jane Doe,jane.doe@yahoo.com,Unknown,Camera,2,200,400
+1195,21-01-2023,John Doe,john.doe@hotmail,+91-98765 43210,Laptop,1,200,200
+1196,11-01-2023,Chris Paul,chris.paul@yahoo.com,+1 234 567 8901,Tablet,2,800,1600
+1197,08-01-2023,Katy,katy@hotmail,9876543210,Phone,2,800,1600
+1198,10-01-2023,Sarah,sarah@outlook.com,+1 234 567 8901,Tablet,1,800,800
+1199,06-01-2023,Chris Paul,chris.paul@yahoo.com,9876543210,Tablet,3,300,900
+1200,21-01-2023,Katy,katy@yahoo.com,9876543210,Tablet,2,300,600
+1201,19-01-2023,Katy,katy@gmailcom,Unknown,Phone,3,200,600
+1202,19-01-2023,Tom Lee,tom.lee@hotmail,+91-98765 43210,Camera,3,200,600
+1203,08-01-2023,Tom Lee,tom.lee@yahoo.com,Unknown,Headphones,2,800,1600
+1204,08-01-2023,Sarah,sarah@hotmail,987654321,Headphones,2,500,1000
+1205,03-01-2023,Sarah,sarah@yahoo.com,9876543210,Headphones,3,50,150
+1206,31-01-2023,Robert Jr,robert.jr@gmail.com,Unknown,Laptop,3,200,600
+1207,16-01-2023,John Doe,john.doe@hotmail,9876543210,Headphones,2,200,400
+1208,30-01-2023,John Doe,john.doe@gmail.com,+91-98765 43210,Headphones,3,500,1500
+1209,12-01-2023,Jane Doe,jane.doe@outlook.com,9876543210,Camera,2,800,1600
+1210,21-01-2023,Tom Lee,tom.lee@hotmail,9876543210,Phone,2,200,400
+1211,17-01-2023,Robert Jr,robert.jr@hotmail,Unknown,Phone,2,500,1000
+1212,31-01-2023,Mike Smith,mikesmith@hotmail,987654321,Phone,3,50,150
+1213,09-01-2023,Tom Lee,tom.lee@yahoo.com,+1 234 567 8901,Headphones,2,500,1000
+1214,17-01-2023,Katy,katy@hotmail,9876543210,Laptop,2,300,600
+1215,23-01-2023,John Doe,john.doe@yahoo.com,Unknown,Headphones,2,200,400
+1216,09-01-2023,Tom Lee,tomlee@outlookcom,+91-98765 43210,Phone,1,50,50
+1217,31-01-2023,Anna,anna@gmail.com,987654321,Tablet,3,500,1500
+1218,04-01-2023,John Doe,johndoe@outlookcom,987654321,Laptop,3,300,900
+1219,29-01-2023,John Doe,johndoe@hotmail,987654321,Tablet,1,300,300
+1220,29-01-2023,Katy,katy@yahoocom,+91-98765 43210,Tablet,1,500,500
+1221,06-01-2023,Anna,anna@yahoo.com,Unknown,Headphones,1,800,800
+1222,18-01-2023,Anna,anna@yahoo.com,+1 234 567 8901,Tablet,2,50,100
+1223,04-01-2023,Jane Doe,janedoe@gmailcom,9876543210,Headphones,3,800,2400
+1224,02-01-2023,Katy,katy@gmail.com,Unknown,Phone,2,300,600
+1225,19-01-2023,John Doe,johndoe@hotmail,987654321,Phone,2,200,400
+1226,05-01-2023,Robert Jr,robert.jr@outlook.com,9876543210,Tablet,1,800,800
+1227,19-01-2023,Chris Paul,chris.paul@gmail.com,9876543210,Camera,1,800,800
+1228,09-01-2023,Tom Lee,tomlee@gmailcom,+91-98765 43210,Laptop,3,50,150
+1229,06-01-2023,Robert Jr,robert.jr@hotmail,987654321,Tablet,2,50,100
+1230,06-01-2023,John Doe,johndoe@gmailcom,+1 234 567 8901,Headphones,3,200,600
+1231,22-01-2023,Jane Doe,janedoe@yahoocom,9876543210,Phone,2,500,1000
+1232,02-01-2023,John Doe,john.doe@yahoo.com,+1 234 567 8901,Headphones,3,300,900
+1233,31-01-2023,Chris Paul,chris.paul@hotmail,987654321,Camera,3,200,600
+1234,22-01-2023,Katy,katy@outlook.com,+1 234 567 8901,Camera,3,50,150
+1235,11-01-2023,Tom Lee,tom.lee@hotmail,987654321,Phone,1,500,500
+1236,20-01-2023,Robert Jr,robert.jr@yahoo.com,9876543210,Phone,2,50,100
+1237,03-01-2023,Mike Smith,mike.smith@outlook.com,+91-98765 43210,Tablet,3,800,2400
+1238,06-01-2023,Robert Jr,robert.jr@hotmail,9876543210,Phone,1,300,300
+1239,21-01-2023,Tom Lee,tom.lee@outlook.com,Unknown,Camera,3,300,900
+1240,03-01-2023,john.doe,john.doe@gmail.com,Unknown,Tablet,1,500,500
+1241,08-01-2023,Jane Doe,jane.doe@hotmail,Unknown,Tablet,2,200,400
+1242,04-01-2023,Tom Lee,tom.lee@gmail.com,+1 234 567 8901,Laptop,1,200,200
+1243,15-01-2023,Katy,katy@hotmail,+91-98765 43210,Phone,2,200,400
+1244,18-01-2023,Katy,katy@hotmail,9876543210,Phone,1,500,500
+1245,15-01-2023,Chris Paul,chris.paul@hotmail,Unknown,Camera,1,50,50
+1246,22-01-2023,Tom Lee,tom.lee@outlook.com,+91-98765 43210,Headphones,3,300,900
+1247,03-01-2023,John Doe,john.doe@hotmail,+1 234 567 8901,Headphones,3,500,1500
+1248,18-01-2023,Mike Smith,mikesmith@yahoocom,+91-98765 43210,Headphones,3,50,150
+1249,20-01-2023,Robert Jr,robertjr@gmailcom,9876543210,Laptop,3,800,2400
+1250,08-01-2023,Jane Doe,jane.doe@gmail.com,987654321,Camera,3,500,1500
+1251,08-01-2023,John Doe,john.doe@yahoo.com,9876543210,Laptop,2,50,100
+1252,10-01-2023,Chris Paul,chris.paul@yahoo.com,Unknown,Headphones,2,800,1600
+1253,05-01-2023,John Doe,john.doe@hotmail,987654321,Laptop,2,500,1000
+1254,18-01-2023,Mike Smith,mikesmith@outlookcom,9876543210,Camera,1,200,200
+1255,17-01-2023,John Doe,john.doe@gmail.com,+1 234 567 8901,Phone,2,50,100
+1256,20-01-2023,Jane Doe,jane.doe@gmail.com,987654321,Camera,1,300,300
+1257,12-01-2023,Jane Doe,jane.doe@outlook.com,+91-98765 43210,Laptop,2,300,600
+1258,22-01-2023,Tom Lee,tom.lee@outlook.com,Unknown,Phone,3,800,2400
+1259,07-01-2023,Tom Lee,tom.lee@gmail.com,9876543210,Tablet,2,200,400
+1260,16-01-2023,Jane Doe,janedoe@outlookcom,9876543210,Phone,2,200,400
+1261,16-01-2023,John Doe,johndoe@yahoocom,Unknown,Phone,1,800,800
+1262,28-01-2023,Anna,anna@gmail.com,+91-98765 43210,Headphones,3,800,2400
+1263,05-01-2023,Robert Jr,robert.jr@yahoo.com,+1 234 567 8901,Tablet,3,800,2400
+1264,17-01-2023,Tom Lee,tom.lee@gmail.com,+91-98765 43210,Headphones,3,500,1500
+1265,27-01-2023,John Doe,john.doe@hotmail,9876543210,Phone,2,500,1000
+1266,05-01-2023,Anna,anna@hotmail,Unknown,Laptop,2,300,600
+1267,07-01-2023,Jane Doe,jane.doe@outlook.com,Unknown,Camera,1,800,800
+1268,19-01-2023,Anna,anna@gmailcom,Unknown,Camera,3,50,150
+1269,27-01-2023,Chris Paul,chris.paul@yahoo.com,+1 234 567 8901,Phone,3,800,2400
+1270,20-01-2023,John Doe,john.doe@outlook.com,+1 234 567 8901,Headphones,3,300,900
+1271,22-01-2023,Jane Doe,jane.doe@outlook.com,+1 234 567 8901,Laptop,3,500,1500
+1272,06-01-2023,Robert Jr,robert.jr@yahoo.com,+1 234 567 8901,Camera,3,50,150
+1273,29-01-2023,Anna,anna@hotmail,9876543210,Headphones,1,200,200
+1274,06-01-2023,Sarah,sarah@hotmail,9876543210,Camera,3,500,1500
+1275,01-01-2023,Mike Smith,mike.smith@outlook.com,Unknown,Laptop,1,200,200
+1276,09-01-2023,Anna,anna@yahoo.com,9876543210,Phone,2,50,100
+1277,27-01-2023,Robert Jr,robert.jr@outlook.com,987654321,Headphones,3,500,1500
+1278,14-01-2023,John Doe,johndoe@hotmail,+91-98765 43210,Headphones,2,500,1000
+1279,27-01-2023,Katy,katy@yahoo.com,Unknown,Headphones,2,500,1000
+1280,20-01-2023,Chris Paul,chris.paul@yahoo.com,9876543210,Camera,2,50,100
+1281,18-01-2023,Anna,anna@yahoo.com,987654321,Camera,2,50,100
+1282,02-01-2023,Jane Doe,jane.doe@hotmail,+91-98765 43210,Headphones,3,300,900
+1283,13-01-2023,Anna,anna@gmailcom,+91-98765 43210,Laptop,1,500,500
+1284,02-01-2023,Anna,anna@hotmail,+1 234 567 8901,Phone,3,500,1500
+1285,29-01-2023,Sarah,sarah@outlook.com,987654321,Camera,2,800,1600
+1286,03-01-2023,Anna,anna@yahoo.com,9876543210,Camera,2,200,400
+1287,27-01-2023,Anna,anna@gmail.com,+1 234 567 8901,Tablet,2,800,1600
+1288,23-01-2023,Chris Paul,chris.paul@yahoo.com,+91-98765 43210,Tablet,3,800,2400
+1289,01-01-2023,Anna,anna@hotmail,9876543210,Camera,2,300,600
+1290,18-01-2023,Jane Doe,jane.doe@gmail.com,+91-98765 43210,Laptop,1,200,200
+1291,10-01-2023,Katy,katy@yahoo.com,Unknown,Phone,3,200,600
+1292,16-01-2023,Jane Doe,janedoe@outlookcom,Unknown,Camera,2,800,1600
+1293,09-01-2023,Chris Paul,chris.paul@gmail.com,Unknown,Laptop,2,500,1000
+1294,30-01-2023,Mike Smith,mike.smith@outlook.com,+1 234 567 8901,Camera,1,50,50
+1295,05-01-2023,Robert Jr,robertjr@outlookcom,Unknown,Headphones,3,300,900
+1296,18-01-2023,Robert Jr,robert.jr@hotmail,+1 234 567 8901,Headphones,2,50,100
+1297,09-01-2023,Tom Lee,tom.lee@yahoo.com,987654321,Headphones,3,300,900
+1298,07-01-2023,Chris Paul,chris.paul@yahoo.com,9876543210,Phone,3,200,600
+1299,13-01-2023,Jane Doe,jane.doe@yahoo.com,987654321,Tablet,2,500,1000
+1300,11-01-2023,Robert Jr,robert.jr@gmail.com,+1 234 567 8901,Headphones,3,500,1500
